@@ -1,5 +1,5 @@
 MyWebsite:
-https://raghavverma24.github.io/MyWebsite/
+http://www.iraghav.tk/
 
 This is where I showcase my projects and interests. 
 
